@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author psciebur
+ *
+ */
+module MojaPracaDomowa {
+}
